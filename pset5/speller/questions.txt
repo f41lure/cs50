@@ -1,0 +1,12 @@
+0.  Some fake long word said to mean a lung disease caused by inhaling very fine ash and sand dust.
+1.  Returns resource usage measures
+2.  16
+3.  Because C requires you to pass by reference, else it will be too big
+4.  The for() loop goes over each character in the file. If the character is a letter or if it is an apostrophe, the loop will add
+    that character to the word[] array. If the total length of the word is more than 45 characters, it slices off any extra characters.
+
+    If the character is an integer, it will be ignored.
+
+    If the word exists, it's counted and checked. The total processing time is recorded.
+5.  Apostrophes wouldn't be recorded.
+6.  Due to the fact that DICTIONARY and LENGTH are constants too.

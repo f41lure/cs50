@@ -1,0 +1,1 @@
+x = int(input("Enter a number to test if prime: "))
